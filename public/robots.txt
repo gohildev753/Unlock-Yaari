@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unlock-yaari.vercel.app/sitemap.xml
